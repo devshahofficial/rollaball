@@ -1,3 +1,7 @@
+// This script is licensed under the MIT License.
+// Copyright (c) [Dev Shah] [2023]
+
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
